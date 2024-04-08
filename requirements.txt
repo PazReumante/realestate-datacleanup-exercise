@@ -10,3 +10,6 @@ jupyter_contrib_nbextensions
 
 # Machine learning ----------------------------
 scikit-learn
+
+#To check that you library was correctly installed 
+pip freeze --> with this command you can check how many libraries and extensions you have installed.
